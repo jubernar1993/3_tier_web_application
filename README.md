@@ -1,2 +1,7 @@
-///This 3 tier web application is to be hosted in aws by oddball.io     
-This app is for demostration purpouses only and the creator is not responsible for any use or damage, loss of data. If used for anything other that it's initial purpouse use at your own risk.
+<<<<<<< HEAD
+# learning-git
+this repo is to practice and learn git
+=======
+# was_web_server_project
+this web_server is to test my terraform abilities. and will be maturing in the upcoming days... Thank you
+>>>>>>> fd68f27d30e3bd09374ab89a660e277b10e05f98
